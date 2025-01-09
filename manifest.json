@@ -1,6 +1,6 @@
 {
 	"name":"Valuable_Book_Scrap",
-	"version_number": "0.1.0",
+	"version_number": "0.1.1",
 	"website_url":"https://github.com/Sniper1-1/Valuable_Book_Scrap.git",
 	"description":"Adds a valuable book scrap to Lethal Company.",
 	"dependencies":[
