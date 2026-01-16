@@ -1,18 +1,26 @@
 
 ---
 
+**<details><summary>Version 0.1.2</summary>**
+
+ - Updated credits.
+ 
+</details>
+
+---
+
 **<details><summary>Version 0.1.1</summary>**
 
  - Tweaked scan node.
  
- </details>
- 
+</details>
+
 ---
 
 **<details><summary>Version 0.1.0</summary>**
 
  - Initial release.
  
- </details>
+</details>
  
 ---

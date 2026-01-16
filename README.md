@@ -16,6 +16,7 @@ Adds a valuable book scrap to Lethal Company. ([Discord link](https://discord.co
 
 ## Credits
 
+- Zeekerss for developing the game.
 - The developers of this mod's dependencies as it literally could not exist without them.
 - [Audio Knight](https://www.youtube.com/@knightofaudio) on YouTube for a handy starting tutorial.
 - [Nomnomab's project patcher](https://github.com/nomnomab/lc-project-patcher) to access vanilla LC through Unity.
