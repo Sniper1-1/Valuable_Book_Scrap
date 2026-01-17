@@ -4,6 +4,7 @@
 **<details><summary>Version 0.1.2</summary>**
 
  - Updated credits.
+ - Updated dependencies list.
  
 </details>
 
